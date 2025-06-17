@@ -64,7 +64,7 @@ It’s a perfect example of how to implement database logic for a small-scale ap
 
 ### 1. Clone or Download the Repository
 ```bash
-git clone https://github.com/yourusername/mysql-student-management.git
+git clone https://github.com/Anshika02-10/mysql-student-management
 
 
 
